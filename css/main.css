@@ -5913,3 +5913,7 @@ body > * {
 
 .list-group-item {
   color: #000000; }
+
+.nav-link{
+    color: white;
+}
