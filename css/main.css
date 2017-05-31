@@ -25,8 +25,11 @@ html, body {
 .alert-heading {
   color: inherit; }
 .imgresize{
-  width: 600px;
-  height: 360px;
+   
+  width: auto;
+  height: auto;
+  max-width: 600px;
+  max-height: 360px;
 }
 .alert-link {
   font-weight: bold; }
